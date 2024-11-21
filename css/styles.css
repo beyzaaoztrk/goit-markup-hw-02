@@ -1,0 +1,125 @@
+.h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2px;
+    line-height: 60px;
+    color: white;
+}
+
+.h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: #2E2F42;
+}
+
+.h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+
+nav li {
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #2E2F42;
+
+}
+
+nav li:hover {
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #404BBF;
+}
+
+nav li:active {
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #404BBF;
+}
+
+address li {
+    font-family:"Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #2E2F42;
+}
+
+address li:hover {
+    font-family:"Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #404BBF; 
+}
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #434455;
+
+}
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #434455;
+}
+
+button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4px;
+    text-decoration: underline;
+    color: white; 
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+button:hover {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4px;
+    text-decoration: underline;
+    color: white; 
+    background-color: #404BBF;
+}
+
+a {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3px;
+}
+
+
+
+
