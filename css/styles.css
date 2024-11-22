@@ -125,7 +125,7 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.studio-1 {
+.spann-1 {
     color: #2e2f42;
 }
 
@@ -139,9 +139,7 @@ a {
 .ilk-liste:hover {
     color: #404bbf;
 }
-.ilk-liste:active {
-    color: #404bbf;
-}
+
 .ilk-adres {
     font-style: normal;
 }
@@ -157,17 +155,17 @@ a {
 .ilk-li:active {
     color: #404bbf;
 }
-.part-2 {
+.partt-2 {
     background-color: #2e2f42;
 }
-.business-1 {
+.bus-1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.strategy-1 {
+.lip-3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -178,7 +176,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.section-3 {
+.sec-3 {
     background-color: #f4f4fd;
 }
 .our-team {
@@ -192,7 +190,7 @@ a {
 .sec-li {
     background-color: #FFFFFF;
 }
-.mark-1 {
+.mar-1 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -203,7 +201,7 @@ a {
     font-size: 16px;
     letter-spacing: 0.02em;
 }
-.part-5 {
+.par-5 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -211,26 +209,26 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.img-1 {
+.imk-1 {
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: #2e2f42; 
 }
-.app-1 {
+.alp-1 {
     letter-spacing: 0.02em;
 }
-.footer-1 {
-    color: #2e2f42;
+.foot-1 {
+    background-color: #2e2f42;
 }
-.web-1 {
+.ilk-bag {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.span-2 {
+.spa-2 {
     color: #2e2f42;
 }
 .son-p {
