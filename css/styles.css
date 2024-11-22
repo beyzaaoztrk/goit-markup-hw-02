@@ -90,7 +90,7 @@ p {
     color: #434455;
 }
 
-.ker-1 {
+.kere-1 {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -102,7 +102,7 @@ p {
     cursor: pointer;
 }
 
-.ker-1:hover {
+.kere-1:hover {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -112,7 +112,7 @@ p {
     color: white; 
     background-color: #404BBF;
 }
-.ker-1:focus {
+.kere-1:focus {
     background-color: #404BBF;
 }
 
@@ -161,7 +161,7 @@ a {
 .pay-2 {
     background-color: #2e2f42;
 }
-.bun-1 {
+.buno-1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
