@@ -90,7 +90,7 @@ p {
     color: #434455;
 }
 
-button {
+.ker-1 {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -102,7 +102,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.ker-1:hover {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -112,7 +112,7 @@ button:hover {
     color: white; 
     background-color: #404BBF;
 }
-button:focus {
+.ker-1:focus {
     background-color: #404BBF;
 }
 
@@ -139,7 +139,9 @@ a {
 .ilk-liste:hover {
     color: #404bbf;
 }
-
+.ilk-liste:focus {
+    color: #404bbf;
+}
 .ilk-adres {
     font-style: normal;
 }
@@ -152,20 +154,21 @@ a {
 .ilk-li:hover {
     color: #404bbf;
 }
-.ilk-li:active {
+.ilk-li:focus {
     color: #404bbf;
 }
-.partt-2 {
+
+.pay-2 {
     background-color: #2e2f42;
 }
-.bus-1 {
+.bun-1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.lip-3 {
+.lil-3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -176,7 +179,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.sec-3 {
+.sel-3 {
     background-color: #f4f4fd;
 }
 .our-team {
@@ -187,10 +190,10 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.sec-li {
+.sel-li {
     background-color: #FFFFFF;
 }
-.mar-1 {
+.map-1 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -201,7 +204,7 @@ a {
     font-size: 16px;
     letter-spacing: 0.02em;
 }
-.par-5 {
+.pap-5 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -209,7 +212,7 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.imk-1 {
+.bas-1 {
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
@@ -219,7 +222,7 @@ a {
 .alp-1 {
     letter-spacing: 0.02em;
 }
-.foot-1 {
+.fot-1 {
     background-color: #2e2f42;
 }
 .ilk-bag {
@@ -228,7 +231,7 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.spa-2 {
+.spp-2 {
     color: #2e2f42;
 }
 .son-p {
