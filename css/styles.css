@@ -78,6 +78,7 @@ body {
     line-height: 24px;
     letter-spacing: 2px;
     color: #434455;
+    background-color: #FFFFFF;
 
 }
 p {
@@ -94,7 +95,7 @@ button {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 4px;
+    letter-spacing: 0.04em;
     text-decoration: underline;
     color: white; 
     background-color: #4D5AE5;
@@ -111,15 +112,128 @@ button:hover {
     color: white; 
     background-color: #404BBF;
 }
+button:focus {
+    background-color: #404BBF;
+}
 
 a {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.studio-1 {
+    color: #2e2f42;
 }
 
+.ilk-liste {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.ilk-liste:hover {
+    color: #404bbf;
+}
+.ilk-liste:active {
+    color: #404bbf;
+}
+.ilk-adres {
+    font-style: normal;
+}
+.ilk-li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.ilk-li:hover {
+    color: #404bbf;
+}
+.ilk-li:active {
+    color: #404bbf;
+}
+.part-2 {
+    background-color: #2e2f42;
+}
+.business-1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.strategy-1 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.ilk-p {
+    letter-spacing: 0.02em;
+}
 
-
-
+.section-3 {
+    background-color: #f4f4fd;
+}
+.our-team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.sec-li {
+    background-color: #FFFFFF;
+}
+.mark-1 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.lii-p {
+    font-size: 16px;
+    letter-spacing: 0.02em;
+}
+.part-5 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.img-1 {
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42; 
+}
+.app-1 {
+    letter-spacing: 0.02em;
+}
+.footer-1 {
+    color: #2e2f42;
+}
+.web-1 {
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.span-2 {
+    color: #2e2f42;
+}
+.son-p {
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
