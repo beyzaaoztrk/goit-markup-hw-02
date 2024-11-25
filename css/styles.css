@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.kere_1 {
+.kere_e {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -16,7 +16,7 @@ body {
     cursor: pointer;
 }
 
-.kere_1:hover {
+.kere_e:hover {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -26,7 +26,7 @@ body {
     color: white; 
     background-color: #404BBF;
 }
-.kere_1:focus {
+.kere_e:focus {
     background-color: #404BBF;
 }
 
@@ -72,17 +72,17 @@ a {
     color: #404bbf;
 }
 
-.ber_2 {
+.ber_r {
     background-color: #2e2f42;
 }
-.ilke_1 {
+.ilke_e {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.lil_3 {
+.lil_l {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -95,7 +95,7 @@ a {
     color: #434455;
 }
 
-.sell_3 {
+.sell_l {
     background-color: #f4f4fd;
 }
 .ore-tm {
@@ -109,7 +109,7 @@ a {
 .sel-li {
     background-color: #FFFFFF;
 }
-.map_1 {
+.masa_a {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -122,7 +122,7 @@ a {
     line-height: 1.5;
     color: #434455;
 }
-.papi_5 {
+.papi_i {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -130,20 +130,20 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.bas_11 {
+.bas_s {
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: #2e2f42; 
 }
-.alpo_1 {
+.alpo_o {
     letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.fter_11 {
+.fter_r {
     background-color: #2e2f42;
 }
 .ilk-bag {
@@ -152,11 +152,11 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.sppe_2 {
+.sppe_e {
     color: #2e2f42;
-    line-height: 1.5;
 }
 .son-p {
     color: #f4f4fd;
     letter-spacing: 0.02em;
+    line-height: 1.5;
 }
