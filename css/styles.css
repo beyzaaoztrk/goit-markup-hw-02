@@ -1,4 +1,10 @@
-.kere-1 {
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.kere_1 {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -10,7 +16,7 @@
     cursor: pointer;
 }
 
-.kere-1:hover {
+.kere_1:hover {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -20,7 +26,7 @@
     color: white; 
     background-color: #404BBF;
 }
-.kere-1:focus {
+.kere_1:focus {
     background-color: #404BBF;
 }
 
@@ -66,17 +72,17 @@ a {
     color: #404bbf;
 }
 
-.ber-2 {
+.ber_2 {
     background-color: #2e2f42;
 }
-.ilke-1 {
+.ilke_1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.lil-3 {
+.lil_3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -85,12 +91,14 @@ a {
 }
 .ilk-p {
     letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #434455;
 }
 
-.sel-3 {
+.sell_3 {
     background-color: #f4f4fd;
 }
-.our-team {
+.ore-tm {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -101,7 +109,7 @@ a {
 .sel-li {
     background-color: #FFFFFF;
 }
-.map-1 {
+.map_1 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -111,8 +119,10 @@ a {
 .lii-p {
     font-size: 16px;
     letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #434455;
 }
-.pap-5 {
+.papi_5 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -120,17 +130,20 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.bas-1 {
+.bas_11 {
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: #2e2f42; 
 }
-.alp-1 {
+.alpo_1 {
     letter-spacing: 0.02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
-.fot-1 {
+.fter_11 {
     background-color: #2e2f42;
 }
 .ilk-bag {
@@ -139,8 +152,9 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.spp-2 {
+.sppe_2 {
     color: #2e2f42;
+    line-height: 1.5;
 }
 .son-p {
     color: #f4f4fd;
